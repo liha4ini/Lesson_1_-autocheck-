@@ -5,9 +5,10 @@
     width: 100%;
     background: #3D3D3D;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     padding-top: 100px;
-    align-items: flex-end;
 }
 
 .hw {
